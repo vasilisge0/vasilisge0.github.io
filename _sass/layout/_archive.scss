@@ -244,3 +244,9 @@
     }
   }
 }
+
+// section headings on the Publications page (e.g. "M.Sc. Thesis"),
+// between the page title (1.563em) and the default h2 (1.25em)
+.archive__section-title {
+  font-size: 1.4em;
+}
