@@ -1,22 +1,32 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Mixed Precision Randomized Preconditioners for Regression Solvers on GPUs<br />SIAM Conference on Applied Linear Algebra (LA24); Paris, France",
+    48.8534951,
+    2.3483915
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "A Mixed Precision Randomized Preconditioner for the LSQR Solver on GPUs<br />ISC High Performance 2023; Hamburg, Germany",
+    53.5501721,
+    10.0013165
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "A composite-precision format for multiprecision matrix computations<br />SC25, Birds of a Feather session, Randomized Numerical Linear Algebra in HPC: Toward a Sustainable, Scalable Software Ecosystem; St. Louis, MO, USA",
+    38.6254063,
+    -90.190009
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Multilevel Probing Methods for Approximating Selected Entries of the Matrix Inverse<br />Computer Engineering and Informatics Department, University of Patras; Patras, Greece",
+    38.246242,
+    21.7350847
+  ],
+  [
+    "A block approach for approximating selected elements of the matrix inverse<br />Numerical Analysis and Scientific Computation with Applications (NASCA18); Kalamata, Greece",
+    37.0372714,
+    22.110707
+  ],
+  [
+    "Multilevel Probing Methods for Approximating Selected Entries of the Matrix Inverse<br />SIAM Conference on Applied Linear Algebra (LA21); Virtual",
+    57.9110833,
+    59.9823317
   ]
 ];
