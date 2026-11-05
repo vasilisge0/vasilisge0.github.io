@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year phd student in the Department of Computer Science at Purdue University, advised by Professor Petros Drineas. My research focuses on high-performance computing. I am currently working on applications of multi-precision, and randomized matrix computations to machine learning and scientific computing workloads.
+I am a third-year PhD student in the Department of Computer Science at Purdue University, advised by Professor Petros Drineas. My research focuses on high-performance computing. I am currently working on applications of multi-precision, and randomized matrix computations to machine learning and scientific computing workloads.
 
 
 
